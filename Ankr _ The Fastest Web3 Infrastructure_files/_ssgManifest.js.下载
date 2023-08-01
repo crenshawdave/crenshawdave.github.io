@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Famy-chat","\u002Fmarket-data-api","\u002Fwidget\u002Fcoin-blocks","\u002Fwidget\u002Fcoin-list","\u002Fwidget\u002Fcoin-marquee","\u002Fwidget\u002Fcoin-ticker"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
